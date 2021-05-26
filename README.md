@@ -10,3 +10,5 @@ $ cd demo
 $ yarn install
 $ yarn test
 ```
+
+Code and tests are located at the same place in the directory `/code`. Feel free to delete, update or reuse that example code.
